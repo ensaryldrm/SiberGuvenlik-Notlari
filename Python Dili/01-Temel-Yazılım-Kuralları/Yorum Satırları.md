@@ -1,6 +1,6 @@
 
 ## Tek Satırlı Yorum
-```
+```python
 # Bu bir tek satırlık yorumdur. Python bu satırı görmezden gelir.
 print("Sistem başlatılıyor...") # Kodun yanına da yorum eklenebilir.
 
@@ -8,7 +8,8 @@ print("Sistem başlatılıyor...") # Kodun yanına da yorum eklenebilir.
 # print("Bu kod çalışmayacak çünkü başında diyez var")
 ```
 # Çok Satırlı Yorum
-```'''
+```python
+'''
 Bu bir çok satırlı yorum bloğudur.
 İstediğimiz kadar alt satıra inebiliriz.
 Özellikle tersine mühendislik veya ağ analizi scriptleri yazarken,

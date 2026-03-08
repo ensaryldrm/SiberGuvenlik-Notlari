@@ -9,3 +9,11 @@ Bir değişkende dize değeri başlatmak için onu tek veya çift tırnak işare
 ```python
 s1 = 'This is a string's2 = "This is also a string"
 ```
+
+## f-string Yapısı
+
+```python
+isim = "Ensar"
+renk = "Mavi"
+print(f"Hoş geldin {isim}, en sevdiğin renk {renk}.")
+```
