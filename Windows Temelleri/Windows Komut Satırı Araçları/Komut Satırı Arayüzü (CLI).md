@@ -1,0 +1,1 @@
+Grafiksel Kullanıcı Arayüzü (GUI), Windows'u kullanmanın tek yolu değildir. Komut Satırı Arayüzü (CLI - Command Line Interface), sistemle sadece klavye ve metin komutları kullanarak etkileşime girilmesini sağlayan yapıdır. Özellikle sistem yönetimi, otomasyon ve siber güvenlik görevlerinde daha hızlı ve esnek bir kullanım sunar.
