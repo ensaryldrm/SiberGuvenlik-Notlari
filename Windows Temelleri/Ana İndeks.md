@@ -33,6 +33,20 @@ Bu dosya, Windows işletim sisteminin temel yapısı, mimarisi ve güvenlik meka
 * [[Komut Satırı Arayüzü (CLI)]]
 * [[Komut İstemi (CMD)]]
 * [[PowerShell]]
+* [[CMD ve PowerShell Karşılaştırması]]
+* [[PowerShell Kurulumu]]
+* [[Temel CMD Kuralları]]
+* [[PowerShell Temelleri ve Yardım Komutları]]
+* [[PowerShell Dosya ve Dizin İşlemleri]]
+* [[PowerShell Pipeline ve Filtreleme]]
+* [[PowerShell Sistem ve Hizmet Yönetimi]]
+* [[Active Directory ve RSAT Temelleri (PowerShell)]]
+* [[PowerShell ile Yerel Kullanıcı ve Grup Yönetimi]]
+* [[PowerShell Ağ ve Bağlantı Komutları]]
+* [[PowerShell ile Sistem ve Bilgi Toplama]]
+* [[PowerShell Betik Yazımı (Scripting) ve Modüller]]
+
+
 
 ## Windows Cihaz ve Veri Güvenliği
 * [[Microsoft Defender Çekirdek Yalıtım (Core Isolation)]]
@@ -46,5 +60,7 @@ Bu dosya, Windows işletim sisteminin temel yapısı, mimarisi ve güvenlik meka
 * [[Windows Virüs ve Tehdit Koruması]]
 * [[Windows Güvenlik Duvarı ve Ağ Koruması]]
 * [[Uygulama ve Tarayıcı Denetimi]]
+
+
 
 
