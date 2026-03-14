@@ -10,6 +10,11 @@ Bu cmdlet'ler tek bir makine üzerindeki yerel (Local) kullanıcı hesaplarını
 * **Get-LocalUser:** Sistemdeki kullanıcıları listeler. Parametre verilmezse tüm kullanıcıları getirir.
 ```powershell
 Get-LocalUser
+```
+
+* **Get-LocalUser:**  Sistemdeki filterenlemiş kullanıcıları listeler.
+```powershell
+Get-LocalGroup | Where-Object Description -match "certificate"
 ````
 
 - **New-LocalUser:** Bilgisayarda yeni bir yerel kullanıcı hesabı oluşturur. Parolayı güvenli metne (secure string) çevirmek zorunludur.
@@ -89,3 +94,4 @@ Remove-LocalGroupMember -Group "Students" -Member "j.doe"
 ```PowerShell
 Remove-LocalGroup -Name "Students"
 ```
+

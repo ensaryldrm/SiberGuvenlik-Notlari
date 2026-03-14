@@ -77,3 +77,9 @@ Remove-ADGroupMember -Identity "Students" -Member "j.doe"
 ```PowerShell
 Remove-ADGroup "Students"
 ```
+
+
+* Aktif olan tüm kullanıcıları listeler.
+```PowerShell
+(Get-ADUser -Filter 'Enabled -eq $true').Count
+```
