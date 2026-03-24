@@ -43,11 +43,12 @@ nmap 192.168.1.10
 
 Büyük bir ağı tararken zaman kazanmak için sadece en popüler ilk **100** portu tarar.
 
-Bash
-
-```
+```Bash
 nmap -F 192.168.1.10
+
+nmap --top-ports <sayı> ip_adresi
 ```
+
 
 ### C. Spesifik Portları Tarama
 
@@ -64,9 +65,7 @@ Sadece ilgilendiğin servise odaklanmak (ve gürültü yapmamak) için kullanıl
 
 Gizlenmiş veya yüksek numaralı (Örn: 31337 veya 8080) portları kaçırmamak için 1'den 65.535'e kadar her yeri tarar. Uzun sürer.
 
-Bash
-
-```
+```Bash
 nmap -p- 192.168.1.10
 ```
 
@@ -74,8 +73,6 @@ nmap -p- 192.168.1.10
 
 Nmap'in İsviçre Çakısıdır. Tek bir komutla işletim sistemini (-O), versiyonları (-sV), scriptleri (-sC) ve hedef rotasını (--traceroute) birlikte çalıştırır. Güvenlik duvarları tarafından **anında fark edilir.**
 
-Bash
-
-```
+```Bash
 nmap -A 192.168.1.10
 ```
