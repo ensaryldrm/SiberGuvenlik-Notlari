@@ -5,7 +5,7 @@ Auxiliary modülleri, hedefe doğrudan sızmayan (exploit etmeyen) ve sisteme za
 ## 1. Auxiliary Modül Kategorileri
 Sızma testlerinde kullanım amaçlarına göre altı ana kategoriye ayrılırlar:
 
-* **Scanner (Tarayıcılar):** Nmap'e benzer şekilde ağdaki cihazları, açık portları ve bilinen zafiyetleri tarar (En çok kullanılan kategoridir).
+* **Scanner (Tarayıcılar):** Nmap'e benzer şekilde ağdaki cihazları, açık sportları ve bilinen zafiyetleri tarar (En çok kullanılan kategoridir).
 * **Gather (Veri Toplama):** Hedef sistemden pasif veya aktif olarak bilgi (kullanıcı adları, e-posta adresleri, versiyon bilgileri) çeker.
 * **Analyze (Analiz):** Parola kırma (brute-force) veya zafiyet analizi gibi işlemleri gerçekleştirir.
 * **Admin (Yönetim):** Hedefte veya kendi sisteminizde idari değişiklikler yapar.
