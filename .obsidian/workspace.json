@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Siber Güvenlik Temel/Web Temelleri/HTTP (Hypertext Transfer Protocol).md",
+                "file": "Siber Güvenlik Temel/16-Web Temelleri/HTTP (Hypertext Transfer Protocol).md",
                 "mode": "source",
                 "source": false
               },
@@ -180,23 +180,23 @@
       "bases:Yeni taban oluştur": false
     }
   },
-  "active": "7a2d7dfa53f6f3c4",
+  "active": "c4fc8b316d03c8b2",
   "lastOpenFiles": [
-    "Siber Güvenlik Temel/Web Temelleri/DNS (Domain Name System).md",
-    "Siber Güvenlik Temel/Web Temelleri/HTTP (Hypertext Transfer Protocol).md",
-    "Siber Güvenlik Temel/Web Temelleri/Giriş.md",
+    "Siber Güvenlik Temel/16-Web Temelleri/DNS (Domain Name System).md",
+    "Siber Güvenlik Temel/16-Web Temelleri/HTTP (Hypertext Transfer Protocol).md",
+    "Siber Güvenlik Temel/16-Web Temelleri/Giriş.md",
     "Siber Güvenlik Temel/07-Metasploit/MSFConsole ve Temel Komutlar.md",
-    "Siber Güvenlik Temel/Web Temelleri",
-    "Siber Güvenlik Temel/NFS/NFS (Network File Sharing).md",
+    "Siber Güvenlik Temel/16-Web Temelleri",
+    "Siber Güvenlik Temel/14-NFS/NFS (Network File Sharing).md",
     "Siber Güvenlik Temel/07-Metasploit/Meterpreter ve Gelişmiş Komutlar.md",
     "Siber Güvenlik Temel/07-Metasploit/Kodlayıcılar (Encoders).md",
     "Siber Güvenlik Temel/07-Metasploit/Giriş ve Temel Kavramlar.md",
-    "Siber Güvenlik Temel/VNC/VNC (Virtual Network Computing).md",
-    "Siber Güvenlik Temel/NFS",
+    "Siber Güvenlik Temel/15-VNC/VNC (Virtual Network Computing).md",
+    "Siber Güvenlik Temel/14-NFS",
     "Siber Güvenlik Temel/07-Metasploit/Evasion (Kaçınma ve Atlatma) Modülleri.md",
     "Siber Güvenlik Temel/07-Metasploit/Auxiliary (Yardımcı) Modüller.md",
     "Siber Güvenlik Temel/07-Metasploit/Payloadlar ve Shellcode Üretimi.md",
-    "Siber Güvenlik Temel/VNC",
+    "Siber Güvenlik Temel/15-VNC",
     "Siber Güvenlik Temel/07-Metasploit/Exploit Sonrası (Post-Exploitation).md",
     "Siber Güvenlik Temel/07-Metasploit/Exploit (Sömürü) Modülleri ve Hedefi Hackleme.md",
     "Windows Temelleri/Windows Komut Satırı Araçları/PowerShell/Active Directory ve RSAT Temelleri (PowerShell).md",
